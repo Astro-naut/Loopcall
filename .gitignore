@@ -1,0 +1,10 @@
+﻿venv/
+venv312/
+.venv/
+__pycache__/
+*.py[cod]
+*.onnx
+*.bin
+.env
+.env.*
+!.env.example

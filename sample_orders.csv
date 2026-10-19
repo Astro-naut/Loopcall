@@ -1,0 +1,7 @@
+﻿order_id,customer_name,phone,address,product,amount,call_done,call_status,customer_language,called_at,address_discrepancies,address_notes,call_notes
+1001,Asha Kulkarni,+91 90000 00001,"Flat 4B, Rose Residency, Baner Road, Pune 411045",Herbal Shampoo 250 ml,339,,,,,,,
+1002,Rahul Deshpande,+91 90000 00002,"Shivaji Nagar, Pune 411005",Rosemary Conditioner 250 ml,351,DONE,NEEDS_HUMAN_REVIEW,english,2026-10-17 01:39,no_house_number; No house number,,customer unsure who placed the order
+1003,Priya Nair,+91 90000 00003,"42 MG Road, Bengaluru",Herbal Shampoo + Rosemary Conditioner combo,675,DONE,ENDED_INAPPROPRIATE,english,2026-10-17 01:41,Missing pincode,,ended politely: inappropriate language
+1004,Vikram Singh,+91 90000 00004,"Sector 62, Noida",Herbal Shampoo 250 ml,339,,,,,,,
+1005,Meera Iyer,+91 90000 00005,"B-12 Green Park, New Delhi 110016",Rosemary Conditioner 250 ml,351,,,,,,,
+1006,Sunil Rao,+91 90000 00006,"Plot 7, Lake View Colony, Hyderabad 500081",Herbal Shampoo + Rosemary Conditioner combo,675,,,,,,,

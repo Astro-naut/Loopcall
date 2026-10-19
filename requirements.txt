@@ -1,0 +1,5 @@
+faster-whisper
+kokoro-onnx
+sounddevice
+numpy
+openpyxl

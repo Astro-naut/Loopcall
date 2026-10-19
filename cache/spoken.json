@@ -1,0 +1,42 @@
+{
+ "{\"address\": \"Flat 4B, Rose Residency, Baner Road, Pune 411045\", \"name\": \"Asha\", \"product\": \"Herbal Shampoo 250 ml\"}": {
+  "name": "आशा",
+  "product": "हर्बल शैम्पू 250 एम एल",
+  "address": "फ्लैट 4बी, रोज़ रेसिडेंसी, बानेर रोड, पुणे 411045"
+ },
+ "{\"address\": \"Shivaji Nagar, Pune 411005\", \"name\": \"Rahul\", \"product\": \"Rosemary Conditioner 250 ml\"}": {
+  "name": "राहुल",
+  "product": "रोज़मेरी कंडीशनर 250 एम एल",
+  "address": "शिवाजी नगर, पुणे 411005"
+ },
+ "{\"address\": \"42 MG Road, Bengaluru\", \"name\": \"Priya\", \"product\": \"Herbal Shampoo + Rosemary Conditioner combo\"}": {
+  "name": "प्रिया",
+  "product": "हर्बल शैम्पू और रोज़मेरी कंडीशनर कॉम्बो",
+  "address": "42 एम जी रोड, बेंगलुरु"
+ },
+ "{\"address\": \"Sector 62, Noida\", \"name\": \"Vikram\", \"product\": \"Herbal Shampoo 250 ml\"}": {
+  "name": "विक्रम",
+  "product": "हर्बल शैम्पू 250 एम एल",
+  "address": "सेक्टर 62, नोएडा"
+ },
+ "{\"address\": \"B-12 Green Park, New Delhi 110016\", \"name\": \"Meera\", \"product\": \"Rosemary Conditioner 250 ml\"}": {
+  "name": "मीरा",
+  "product": "रोज़मेरी कंडीशनर 250 एम एल",
+  "address": "बी-12 ग्रीन पार्क, न्यू दिल्ली 110016"
+ },
+ "{\"address\": \"Plot 7, Lake View Colony, Hyderabad 500081\", \"name\": \"Sunil\", \"product\": \"Herbal Shampoo + Rosemary Conditioner combo\"}": {
+  "name": "सुनील",
+  "product": "हर्बल शैम्पू और रोज़मेरी कंडीशनर कॉम्बो",
+  "address": "प्लॉट 7, लेक व्यू कॉलोनी, हैदराबाद 500081"
+ },
+ "{\"address\": \"Keshav Puram, Lawrence Road\", \"name\": \"Ritu\", \"product\": \"Rosemary Conditioner\"}": {
+  "name": "रितू",
+  "product": "रोज़मेरी कंडीशनर",
+  "address": "केशव पुरम, लॉरेंस रोड"
+ },
+ "{\"address\": \"Lawrence Road, Delhi\", \"name\": \"Amrita\", \"product\": \"Rosemary Conditioner\"}": {
+  "name": "अमृता",
+  "product": "रोज़मेरी कंडीशनर",
+  "address": "लॉरेंस रोड, दिल्ली"
+ }
+}
