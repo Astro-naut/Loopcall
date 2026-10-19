@@ -1,4 +1,4 @@
-# Order verifier: Sonali's thank-you call
+# Loopcall - Order verifier: Sonali's thank-you call
 
 A small business gets an order with a thin address ("Shivaji Nagar, Pune 411005"). Today someone phones the customer to check the order is real and to fix the address. This project makes that call by voice. It is framed as a **thank-you** from **Sonali** at Sustainable Universe, and every model runs on one ordinary laptop: speech-to-text, a small open-weight language model and text-to-speech. A call costs nothing to run, and no audio, transcript or address is sent to an AI vendor.
 
